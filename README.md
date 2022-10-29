@@ -5,7 +5,7 @@ I'm Kai. After finishing the training in the industry analysis workshop of Marke
 * Please check my resume at https://www.cakeresume.com/carl-liu.
 * Please check my portfolio can be viewed at https://reurl.cc/YXM2pl.
 
-# My Skill
+# 🖥My Skill
 ## Front-End
 1. HTML5:Semantic Layout 
 2. CSS3: SCSS
