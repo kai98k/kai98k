@@ -24,7 +24,7 @@ I'm Kai. After finishing the training in the industry analysis workshop of Marke
 7. Signalr (WebSocket)
 8. MS SQL
 
-# My Strengths 
+# 🔥My Strengths 
 1. Having the experience of Full-Stack
 2. Good at communication, coordination and teamwork,have experience in communicating with non-professional backgrounds
 3. Good at finding resource and reading technical documents in English
