@@ -4,6 +4,7 @@ I'm Kai. After finishing the training in the industry analysis workshop of Marke
 
 * Please check my resume at https://www.cakeresume.com/carl-liu.
 * Please check my portfolio can be viewed at https://reurl.cc/YXM2pl.
+* My Email: <a mail="carl12331@gmail.com">carl12331@gmail.com</a>
 
 # 🖥My Skill
 ## Front-End
