@@ -9,68 +9,43 @@ I'm Kai. After finishing the training in the industry analysis workshop of Marke
 # 🖥My Skill
 <table><tr><td valign="top" width="25%">
 
-### F2E
+### Front End
 
-◉ Angular2 ( 3+y )
+◉ Angular 14+ ( 1+ y)
   
-◉ Vue2 ( 1+y )
+◉ Vue3 ( 1y )
   
-◉ PrimeNG / MaterialUI / Ngx-admin
+◉ NG-Zorro / Angular Material / Ng-Alain
   
-◉ SASS / TypeScript
+◉ SASS / TypeScript / Rx.js
   
 ◉ JS Lib ( jQuery、Chart、Three、D3 ) etc...
   
 </td><td valign="top" width="25%">
 
-### B2E
+### Back End
 
-◉ Net. Core ( 4+y ) / MVC / WebAPI          
+◉ NET Core / NET Framework / Web API / MVC  (1+ y)        
 
-◉MS SQL ( 3+y ) 
+◉ MS SQL ( 1+ y ) 
 
-◉ AOP / IOC / Unit Test / Dapper / Quartz.NET / RabbitMQ             
+◉ Signalr / AOP / IOC / Unit Test / LINQ / ABP Framework etc...              
   
-◉ C# ( 4+y ) / VB ( 1+y )
-  
-◉ Oracle ( 1+y ) etc...  
+◉ C#  / VB  
   
 </td><td valign="top" width="25%">
   
 ### Tool
 
-◉ Git ( Github / Git Flow ) / SourceTree / Jenkins / IIS / Nginx
+◉ Git ( Github / Git Flow ) / SourceTree / Jenkins / IIS 
 
-◉ Redmine / Jira / Asana / Trello / Slack
+◉ Github Project
 
-◉ Azure / Swagger / Postman etc...
-  
-</td><td valign="top" width="25%">
-  
-### Other
+◉ Swagger / Postman
 
-◉ Electron.net / Firebase / DBeaver / Figma / 
-
- ◉ Adobe (XD、PS、AI) / AutoCad / Sketchup / Lumion etc...
+◉ Figma / PhotoShop / Draw.io
   
 </td></tr></table>
-## Front-End
-1. HTML5:Semantic Layout 
-2. CSS3: SCSS
-3. JavaScript: ES5、ES6、AJAX
-4. Vue3: Options、Composition
-5. Angular2+: HttpClient、Dependency Injection、Pipe、Observable 、Angular Material
-6. Library: JQuery、Bootstrap、Chart.js、Swiper.js...etc
-
-## Back-End
-1. ASP.NET MVC
-2. .NET Framework
-3. .NET Core
-4. Razor
-5. LINQ
-6. Entity Framework (Core)
-7. Signalr (WebSocket)
-8. MS SQL
 
 # 🔥My Strengths 
 1. Having the experience of Full-Stack
