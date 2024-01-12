@@ -7,6 +7,53 @@ I'm Kai. After finishing the training in the industry analysis workshop of Marke
 * My Email: <a mail="carl12331@gmail.com">carl12331@gmail.com</a>
 
 # 🖥My Skill
+<table><tr><td valign="top" width="25%">
+
+### F2E
+
+◉ Angular2 ( 3+y )
+  
+◉ Vue2 ( 1+y )
+  
+◉ PrimeNG / MaterialUI / Ngx-admin
+  
+◉ SASS / TypeScript
+  
+◉ JS Lib ( jQuery、Chart、Three、D3 ) etc...
+  
+</td><td valign="top" width="25%">
+
+### B2E
+
+◉ Net. Core ( 4+y ) / MVC / WebAPI          
+
+◉MS SQL ( 3+y ) 
+
+◉ AOP / IOC / Unit Test / Dapper / Quartz.NET / RabbitMQ             
+  
+◉ C# ( 4+y ) / VB ( 1+y )
+  
+◉ Oracle ( 1+y ) etc...  
+  
+</td><td valign="top" width="25%">
+  
+### Tool
+
+◉ Git ( Github / Git Flow ) / SourceTree / Jenkins / IIS / Nginx
+
+◉ Redmine / Jira / Asana / Trello / Slack
+
+◉ Azure / Swagger / Postman etc...
+  
+</td><td valign="top" width="25%">
+  
+### Other
+
+◉ Electron.net / Firebase / DBeaver / Figma / 
+
+ ◉ Adobe (XD、PS、AI) / AutoCad / Sketchup / Lumion etc...
+  
+</td></tr></table>
 ## Front-End
 1. HTML5:Semantic Layout 
 2. CSS3: SCSS
